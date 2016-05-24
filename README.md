@@ -1,4 +1,4 @@
-# textlint-travis-ci-demo
+# textlint-travis-ci-demo [![Build Status](https://travis-ci.org/azu/textlint-travis-ci-demo.svg?branch=master)](https://travis-ci.org/azu/textlint-travis-ci-demo)
 
 textlint with Travis CI demo repository
 
@@ -45,6 +45,7 @@ script:
   - npm run textlint
 ```
 
+See result in [![Build Status](https://travis-ci.org/azu/textlint-travis-ci-demo.svg?branch=master)](https://travis-ci.org/azu/textlint-travis-ci-demo)
 
 ## Contributing
 
